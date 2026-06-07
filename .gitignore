@@ -1,0 +1,26 @@
+# Generated research outputs
+research_*.md
+a_share_validation_*.md
+
+# Local Claude Code settings
+settings.local.json
+.claude/settings.local.json
+
+# Local notes / source materials
+Serenity研究理论源文.txt
+*.txt
+
+# Python / data artifacts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.csv
+*.xlsx
+*.parquet
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
